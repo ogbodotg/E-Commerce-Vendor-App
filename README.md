@@ -1,6 +1,6 @@
-# ahia_vendor
+# E-Commerce Vendor App
 
-A new Flutter project.
+Complete E-commerce Vendor App built with Flutter and Firebase.
 
 ## Getting Started
 
